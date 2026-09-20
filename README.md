@@ -1,2 +1,0 @@
-# ethbt
-ETHBT standalone website
